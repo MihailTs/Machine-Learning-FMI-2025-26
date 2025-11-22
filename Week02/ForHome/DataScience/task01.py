@@ -6,8 +6,8 @@ What is binary classification?
 Класификация по два възможни класа.
 
 Which column could be the target variable for binary classification?
-churn
+'churn' защото може да има стойност само 0 или 1 
 
 Which term is used to describe the other columns?
-Features (Свойства)
+Характеристики / Променливи
 '''
